@@ -1,4 +1,4 @@
-# password-generator
+# Gerador de senhas
 Gerador de senhas com configuração.
 
 <a href="https://mssdesign.github.io/password-generator/" target="_blank">Clique aqui para ver o site.</a>
